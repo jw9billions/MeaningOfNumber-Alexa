@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "NumberIntent",
+      "slots": [
+        {
+          "name": "Number",
+          "type": "LIST_OF_NUMBERS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

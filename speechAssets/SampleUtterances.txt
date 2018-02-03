@@ -1,0 +1,17 @@
+NumberIntent {Number}.
+NumberIntent Number {Number}.
+NumberIntent Meaning of {Number}
+NumberIntent Bible meaning of {Number}
+NumberIntent I want to be number {Number}
+NumberIntent I like {Number}.
+NumberIntent Lucky {Number}.
+NumberIntent Tell me about {Number}.
+NumberIntent I am think about {Number}.
+NumberIntent I am think about number {Number}.
+NumberIntent Get {Number}.
+NumberIntent Go for {Number}.
+NumberIntent I love {Number}.
+NumberIntent I hate {Number}.
+NumberIntent {Number} is great.
+NumberIntent {Number} {Number} {Number}.
+NumberIntent Ask Meaning Of Numbers about {Number}.
