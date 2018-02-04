@@ -1,5 +1,6 @@
 NumberIntent {Number}.
 NumberIntent Number {Number}.
+NumberIntent The number {Number}.
 NumberIntent Meaning of {Number}
 NumberIntent Bible meaning of {Number}
 NumberIntent I want to be number {Number}
