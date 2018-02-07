@@ -1,18 +1,18 @@
-NumberIntent {Number}.
-NumberIntent Number {Number}.
-NumberIntent The number {Number}.
-NumberIntent Meaning of {Number}
-NumberIntent Bible meaning of {Number}
-NumberIntent I want to be number {Number}
-NumberIntent I like {Number}.
-NumberIntent Lucky {Number}.
-NumberIntent Tell me about {Number}.
-NumberIntent I am think about {Number}.
-NumberIntent I am think about number {Number}.
-NumberIntent Get {Number}.
-NumberIntent Go for {Number}.
-NumberIntent I love {Number}.
-NumberIntent I hate {Number}.
-NumberIntent {Number} is great.
-NumberIntent {Number} {Number} {Number}.
-NumberIntent Ask Meaning Of Numbers about {Number}.
+GetMeaning {Number}
+GetMeaning Number {Number}
+GetMeaning The number {Number}
+GetMeaning Meaning of {Number}
+GetMeaning Bible meaning of {Number}
+GetMeaning I want to be number {Number}
+GetMeaning I like {Number}
+GetMeaning Lucky {Number}
+GetMeaning Tell me about {Number}
+GetMeaning I am think about {Number}
+GetMeaning I am think about number {Number}
+GetMeaning Get {Number}
+GetMeaning Go for {Number}
+GetMeaning I love {Number}
+GetMeaning I hate {Number}
+GetMeaning {Number} is great
+GetMeaning {Number} {Number} {Number}
+GetMeaning Ask meaning about {Number}
